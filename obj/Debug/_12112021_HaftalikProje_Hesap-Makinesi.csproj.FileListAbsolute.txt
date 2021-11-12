@@ -1,0 +1,2 @@
+C:\Users\Ahmet\Source\Repos\Haftalik-Proje-Calismalari\obj\Debug\_12112021_HaftalikProje_Hesap-Makinesi.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Source\Repos\Haftalik-Proje-Calismalari\obj\Debug\_12112021_HaftalikProje_Hesap-Makinesi.csproj.GenerateResource.cache
